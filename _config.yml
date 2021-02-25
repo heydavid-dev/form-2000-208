@@ -1,0 +1,122 @@
+url: https://chickensmitten.github.io
+baseurl: /agency
+
+# Site settings
+header-title: Welcome To Our Agency
+header-subtitle: It's Nice to be Friends
+header-button: Tell Me More
+
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Services title, description, list and names
+services:
+  title: Services
+  description: Lorem ipsum dolor sit amet consectetur.
+
+services-list:
+- name: E-Commerce
+  icon: shopping-cart
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+- name: Responsive Design
+  icon: laptop
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+- name: Web Security
+  icon: lock
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+
+# portfolio title
+portfolio:
+  title: Portfolio
+  description: Lorem ipsum dolor sit amet consectetur.
+
+# Team names, description, titles and social links
+team:
+  title: Our Amazing Team
+  top-description: Lorem ipsum dolor sit amet consectetur.
+  bottom-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+
+about:
+  title: About
+  description: Lorem ipsum dolor sit amet consectetur.
+  
+about-timeline-list:
+- date: 2009-2011
+  pic: 1
+  heading: Our Humble Beginnings
+  body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+- date: March 2011
+  pic: 2
+  heading: An Agency is Born
+  body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+  
+- date: December 2012
+  pic: 3
+  heading: Transition to Full Service
+  body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+- date: July 2014
+  pic: 4
+  heading: Phase Two Expansion
+  body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+about-end-timeline:
+  description: Welcome! Be Part Of Our Story!
+
+people-list:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social-list:
+    - title: twitter
+      url: https://twitter.com
+    - title: facebook
+      url: https://facebook.com
+    - title: stack-overflow
+      url: https://stackoverflow.com
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social-list:
+    - title: twitter
+      url: https://twitter.com
+    - title: facebook
+      url: https://facebook.com
+    - title: linkedin
+      url: https://linkedin.com
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social-list:
+    - title: twitter
+      url: https://twitter.com
+    - title: facebook
+      url: https://facebook.com
+    - title: linkedin
+      url: https://linkedin.com
+
+contact:
+  title: Contact Us
+  description: Lorem ipsum dolor sit amet consectetur.
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+contact-list:
+  - title: twitter
+    url: https://twitter.com
+  - title: facebook
+    url: https://facebook.com
+  - title: stack-overflow
+    url: https://stackoverflow.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
